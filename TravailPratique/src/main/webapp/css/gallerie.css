@@ -1,0 +1,30 @@
+.img_gal {
+    width: 22%;
+    vertical-align: middle;
+    margin-top: 15px;
+    border-radius: 50px;
+}
+
+fieldset {
+    background-color: wheat;
+    border-radius: 20px;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.h1_gal {
+    width: 34%;
+    border-radius: 15px;
+    background-color: #ECA400;
+    margin: auto;
+    font-family: 'Bangers', cursive;
+}
+
+#headqua {
+    width: 13%;
+    vertical-align: middle;
+    margin-top: 15px;
+    border-radius: 50px;
+}

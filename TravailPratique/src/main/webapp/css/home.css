@@ -1,0 +1,101 @@
+/* div qui contient la promotion */
+
+.wel_int {
+    background-color: wheat;
+    margin-top: 0;
+    margin: auto;
+    color: white;
+    border-radius: 30px;
+    width: 80%;
+    margin-top: 10px;
+}
+
+/* h1 de promotion */
+
+#welcome {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    font-size: 2.5vw;
+    color: black;
+    background-color: lightgray;
+    border-radius: 15px;
+    font-family: 'Bangers', cursive;
+}
+
+#intro {
+    text-justify: auto;
+    font-size: 1.7vw;
+    color: black;
+    margin: auto;
+    width: 60%;
+}
+
+#intro_txt {
+    width: 50%;
+    margin-left: 100px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 100px;
+    font-size: 1.8vw;
+    background-color: lightgray;
+    border-radius: 20px;
+    padding: 2px;
+    color: black;
+}
+
+#intro_img {
+    width: 15%;
+    display: inline-block;
+    margin: 40px 0 0 150px;
+}
+
+/* couleur de promotion */
+
+.wel_int span {
+    color: red;
+    opacity: 0.7;
+}
+
+/* boutton view  */
+
+#but_view {
+    width: 30%;
+    margin: auto;
+}
+
+#but_view a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: #e65c00;
+    border-radius: 40px;
+    padding: 8px;
+    border: 2px solid #e65c00;
+}
+
+#but_view a:hover {
+    color: #e65c00;
+    background-color: lightgray;
+}
+
+#div-vid {
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+#txt_vid p {
+    font-size: 1.8vw;
+}
+
+#vid {
+    width: 90%;
+    margin: auto;
+}
+
+.video {
+    width: 100%;
+}
+

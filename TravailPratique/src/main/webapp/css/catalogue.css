@@ -1,0 +1,78 @@
+.pop_titre {
+    text-align: center;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 450px;
+    color: black;
+    background-color: #77878B;
+    border-radius: 10px;
+}
+
+/* div qui contient les deux produits */
+
+.allProducts {
+    width: 90%;
+    margin: auto;
+    border-radius: 15px;
+}
+
+/* div de produit */
+
+.product {
+    width: 32%;
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+    background-color: lightgrey;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+/* image produits */
+
+.pop_img {
+    width: 100%;
+    text-align: center;
+    background-color: lightgrey;
+    border-radius: 5%;
+    
+}
+
+.produc_name {
+    text-align: center;
+    font-size: 2vw;
+    opacity: 0.6;
+}
+
+/* txt du produit */
+
+.description {
+    text-align: center;
+    font-size: 1.5vw;
+    border-radius: 5%;
+}
+
+
+
+.description ul li {
+    display: inline-block;
+    width: 150px;
+    border-radius: 15px;
+}
+
+.description ul li a {
+    text-decoration: none;
+    color: white;
+    border: 3px solid lightgray;
+    display: block;
+    border-radius: 15px;
+    background-color: #e65c00;
+}
+
+.description ul li a:hover {
+    text-decoration: none;
+    color: #e65c00;
+    display: block;
+    background-color: lightgray;
+    border-color: #e65c00;
+}

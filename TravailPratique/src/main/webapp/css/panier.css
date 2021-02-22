@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 20, 2020, 5:20:15 PM
+    Author     : aouattar
+*/
+
+.btnPlusMoins{
+    display: flex;
+    flex-direction: row;
+}
+
+tr img{
+    width: 140px;
+    height: 150px;
+}
+
+div > input{
+    width : 100px;
+    height: 50px;
+}
+
+tr{
+    border: 5px solid black;
+}
+
+td{
+    font-size: 18px;
+    font-weight: bold;
+    width: 200px;
+}
+.btnPlusMoins p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h2, h1{
+    text-align: center;
+}
+
+.btnPasserCmd{
+    width: 15%;
+    margin-left: 40%;
+    display: block;
+    color: white;
+    background-color: #e65c00;
+    border-radius: 40px;
+    padding: 10px;
+    border: 2px solid #e65c00;
+    font-size: 20px;
+}
+
+.btnPasserCmd:hover {
+    color: #e65c00;
+    background-color: lightgray;
+}
